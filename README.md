@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DiegoLlamozas
 - 👀 I’m interested in Artificial Intelligence, BlockChain, Game Development and FullStack
 - 🌱 I’m currently learning GraphQL and Notion API
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on creative and passion projects
 - 📫 How to reach me: Discord (@diego293587787)
 
 <!---
